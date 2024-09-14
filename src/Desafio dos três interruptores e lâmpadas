@@ -1,0 +1,7 @@
+Ligue o primeiro interruptor e o deixe ligado por alguns minutos.
+Após alguns minutos, desligue o primeiro interruptor e ligue o segundo interruptor. Vá para a sala das lâmpadas.
+
+A lâmpada acesa corresponde ao segundo interruptor (que está ligado).
+A lâmpada quente, mas apagada, corresponde ao primeiro interruptor (pois estava ligada por um tempo, mas foi desligada).
+A lâmpada fria e apagada corresponde ao terceiro interruptor (que nunca foi ligado).
+Essa estratégia usa apenas duas idas à sala das lâmpadas e permite identificar qual interruptor corresponde a qual lâmpada.
